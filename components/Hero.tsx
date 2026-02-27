@@ -15,7 +15,7 @@ export default function Hero() {
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
         <Image
-          src="/images/cut-3.jpg"
+          src="/images/cut-7.jpg"
           alt="UpperLevel Barbershop precision fade"
           fill
           className="object-cover"

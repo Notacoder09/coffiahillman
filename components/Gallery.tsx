@@ -5,33 +5,33 @@ import Image from "next/image";
 
 const galleryImages = [
   {
-    src: "/images/cut-1.jpg",
-    alt: "Clean wave cut with beard lineup",
-    span: "md:row-span-2", // tall
+    src: "/images/cut-3.jpg",
+    alt: "Loc fade with razor-sharp lineup",
+    span: "md:row-span-2", // tall — strong showcase piece
   },
   {
     src: "/images/cut-2.jpg",
-    alt: "Textured top with precision fade",
-    span: "",
-  },
-  {
-    src: "/images/cut-3.jpg",
-    alt: "Loc fade with sharp lineup",
-    span: "",
-  },
-  {
-    src: "/images/cut-4.jpg",
-    alt: "Clean shaved head with beard sculpt",
-    span: "md:row-span-2", // tall
-  },
-  {
-    src: "/images/cut-5.jpg",
-    alt: "Kids textured crop with fade",
+    alt: "Textured top with swept-back mid fade",
     span: "",
   },
   {
     src: "/images/cut-6.jpg",
-    alt: "Happy clients at UpperLevel Barbershop",
+    alt: "Wave cut with beard lineup",
+    span: "",
+  },
+  {
+    src: "/images/cut-7.jpg",
+    alt: "Low fade with clean lineup and beard",
+    span: "md:row-span-2", // tall
+  },
+  {
+    src: "/images/cut-5.jpg",
+    alt: "Clean shaved head with beard sculpt",
+    span: "",
+  },
+  {
+    src: "/images/cut-1.jpg",
+    alt: "Kid's textured crop with fade",
     span: "",
   },
 ];

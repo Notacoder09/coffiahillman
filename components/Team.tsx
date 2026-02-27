@@ -40,7 +40,7 @@ export default function Team() {
             {/* Photo */}
             <div className="relative w-full md:w-1/2 h-80 md:h-auto md:min-h-[400px]">
               <Image
-                src="/images/cut-6.jpg"
+                src="/images/cut-4.jpg"
                 alt="Coffia Hillman — Owner of UpperLevel Barbershop"
                 fill
                 className="object-cover"
